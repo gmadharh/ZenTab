@@ -4,6 +4,9 @@
   "description": "Start every new tab with a beautiful quote and the current weather.",
   "version": "1.0.0",
   "icons": {
-    "128": "public/icon128.png"
+    "128": "src/assets/icon128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
   }
 }
