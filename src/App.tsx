@@ -1,8 +1,9 @@
+import Quote from './components/quote/Quote'
 function App() {
   return (
-    <div>
-      <h1>Hello World</h1>
-    </div>
+    <>
+      <Quote />
+    </>
   )
 }
 
