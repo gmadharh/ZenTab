@@ -1,3 +1,3 @@
-![Untitled-1](https://github.com/gmadharh/zen-tab/assets/58638508/c2002150-bfe8-439c-b8fa-347cd43a5db2)
+![icon128](https://github.com/gmadharh/zen-tab/assets/58638508/c1631a9a-d5e1-49b3-af41-2705e252efc9)
 
 # ZenTab: Quotes & Weather
