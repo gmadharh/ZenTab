@@ -1,4 +1,3 @@
-import './quote.css'
 import { useEffect, useState } from 'react'
 
 function Quote() {
