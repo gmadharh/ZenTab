@@ -1,0 +1,11 @@
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5em;
+  font-family: 'Sora', sans-serif;
+  background-image: linear-gradient(90deg, rgb(157, 255, 240) 0%, #233d42 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
