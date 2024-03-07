@@ -4,8 +4,9 @@
   align-items: center;
   font-size: 5em;
   font-family: 'Sora', sans-serif;
-  background-image: linear-gradient(90deg, rgb(157, 255, 240) 0%, #233d42 100%);
+  background-image: linear-gradient(90deg, rgb(150, 239, 255) 0%, #3b666e 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
