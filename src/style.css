@@ -1,11 +1,14 @@
 body {
-  background-image: url(https://picsum.photos/1920/1080);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://picsum.photos/1920/1080);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
   margin: 0;
-  padding: 0;
   overflow: hidden;
 }
