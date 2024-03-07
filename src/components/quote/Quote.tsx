@@ -15,9 +15,11 @@ function Quote() {
   }, [])
 
   return (
-    <div>
-      <h1>{quote}</h1>
-      <h3>{author}</h3>
+    <div className="container">
+      <div className="quote-container">
+        <h1>{quote}</h1>
+        <h3>{`- ` + author}</h3>
+      </div>
     </div>
   )
 }
